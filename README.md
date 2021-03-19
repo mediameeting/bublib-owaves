@@ -1,4 +1,14 @@
-# Circular Audio Wave
+# Circular Audio Wave => OWaves
+
+## Todo
+
+- [ ] Refactoring
+- [ ] Customization
+- [ ] Performance
+- [ ] VueJS... integrations
+
+*Thx to kelvinau for the initial release : https://github.com/kelvinau/circular-audio-wave*
+
 <img alt="Circular Wave" src="https://kelvinau.github.io/circular-audio-wave/demo/circular-wave.gif" width="50%"/><img alt="Sunburst" src="https://kelvinau.github.io/circular-audio-wave/demo/sunburst.gif?1" width="50%"/>
 
 **Live Demo**  
